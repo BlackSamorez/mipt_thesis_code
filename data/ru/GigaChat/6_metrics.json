@@ -1,0 +1,92 @@
+[
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 0,
+        "certain": 0
+    },
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 0,
+        "certain": 0
+    },
+    {
+        "valid": true,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 0,
+        "certain": 0
+    },
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 1,
+        "certain": 0
+    },
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 0,
+        "certain": 0
+    },
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 1,
+        "certain": 1
+    },
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 1,
+        "certain": 0
+    },
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 1,
+        "certain": 1
+    },
+    {
+        "valid": false,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 0,
+        "certain": 0
+    },
+    {
+        "valid": true,
+        "legible": 1,
+        "relevant": 1,
+        "independent": 1,
+        "sensible": 1,
+        "answerable": 1,
+        "certain": 1
+    }
+]
